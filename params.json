@@ -1,6 +1,6 @@
 {
   "name": "My Life",
   "tagline": "Do everything in terminal",
-  "body": "##My repos:\r\n\r\n####DotFiles\r\n####JavaUnit.vim\r\n####Mysql.vim\r\n",
+  "body": "##My repos:\r\n\r\n#### [DotFiles](http://wsdjeg.github.io/DotFiles/)\r\n#### [JavaUnit.vim](http://wsdjeg.github.io/JavaUnit.vim/)\r\n#### [Mysql.vim](http://wsdjeg.github.io/Mysql.vim/)\r\n",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
